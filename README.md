@@ -6,7 +6,8 @@ Passo uma boa parte do tempo codando coisas aleatórias ou estudando música. J�
 * [WebAPP e WebAPI C# containerizada usando Docker](https://github.com/gabesantos1/docker-compose-learning)
 * [Bot para Twitch](https://github.com/gabesantos1/twitchbot)
 
-Atualmente estudando muito React, ReactNative e quando sobra tempo eu vejo coisa sobre [Blazor](https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-3.1), que promete ser o React da stack Microsoft.
+Atualmente estudando React, ReactNative, NextJS.
+Lendo: Sapiens do Harari.
 
 ---
 
@@ -18,6 +19,7 @@ Spend most of my time coding, learning new stuff. Worked and would like to keep 
 * [Containerized WebApp and WebAPI](https://github.com/gabesantos1/docker-compose-learning)
 * [Twitch chatbot](https://github.com/gabesantos1/twitchbot)
 
-Currently studying a lot of React and React Native, if I have some extra time I'll be studying [Blazor](https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-3.1).
+Currently studying React, React Native, NextJS.
+Reading: Sapiens from Harari.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabesantos1/)](https://www.linkedin.com/in/gabesantos1/)
