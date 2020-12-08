@@ -1,5 +1,5 @@
-#### Atualmente ocupo meu tempo estudando diversos assuntos.
-Passo uma boa parte do tempo codando coisas aleatórias ou estudando música. Já trabalhei e gostaria de continuar trabalhando como desenvolvedor usando a stack da Microsoft. (.NET Core/.NET Framework/ASP.NET)
+#### Ocupando meu tempo livre estudando música, filosofia, psicologia.
+##### Trabalhando como desenvolvedor usando a stack da Microsoft. (.NET Core/.NET Framework/ASP.NET)
 
 ##### Algumas das coisas que já fiz:
 * [Encriptação de arquivos](https://github.com/gabesantos1/RSAEncryption)
@@ -11,8 +11,8 @@ Lendo: Sapiens do Harari.
 
 ---
 
-#### Currently occupying my mind studying music, philosophy and coding related stuff.
-Spend most of my time coding, learning new stuff. Worked and would like to keep working as software developer/engineer using Microsft stack. (.NET Core/.NET Framework/ASP.NET)
+#### Occupying my mind studying music, philosophy and psychology.
+##### Working as software developer using Microsft stack. (.NET Core/.NET Framework/ASP.NET)
 
 ##### My beloved project:
 * [File encryption](https://github.com/gabesantos1/RSAEncryption)
